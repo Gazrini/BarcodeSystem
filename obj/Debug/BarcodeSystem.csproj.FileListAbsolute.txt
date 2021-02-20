@@ -1,0 +1,100 @@
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe.config
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.pdb
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.dll
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.dll
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.pdb
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.xml
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.xml
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csprojAssemblyReference.cache
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.GenerateBarcode.resources
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.Properties.Resources.resources
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.GenerateResource.cache
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CoreCompileInputs.cache
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CopyComplete
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.exe
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.pdb
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.ScanBarcode.resources
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.ReadBarcode.resources
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\Database.mdf
+C:\Users\gazrini\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\Database_log.ldf
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\Database.mdf
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\Database_log.ldf
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe.config
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.pdb
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.dll
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.dll
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.dll
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.dll
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.xml
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.xml
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.pdb
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.xml
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.xml
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csprojAssemblyReference.cache
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.GenerateBarcode.resources
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.Properties.Resources.resources
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.ReadBarcode.resources
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.ScanBarcode.resources
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.GenerateResource.cache
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CoreCompileInputs.cache
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CopyComplete
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.exe
+C:\Users\gazrini\Desktop\Barcode System Task\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.pdb
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\Database.mdf
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\Database_log.ldf
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe.config
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.pdb
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.dll
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.DirectShow.dll
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.dll
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.dll
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.dll
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.xml
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.xml
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.DirectShow.xml
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.pdb
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.xml
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.pdb
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.xml
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csprojAssemblyReference.cache
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.GenerateBarcode.resources
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.Properties.Resources.resources
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.ReadBarcode.resources
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.GenerateResource.cache
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CoreCompileInputs.cache
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CopyComplete
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.exe
+D:\Degree\SEMESTER 7\Internship Degree (Cardbiz)\Task During Intra\Plugin Barcode Vb.Net\c#\Barcode System c#\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.pdb
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\Database.mdf
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\Database_log.ldf
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe.config
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.exe
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\BarcodeSystem.pdb
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.dll
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.dll
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.dll
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.xml
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.pdb
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.xml
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.pdb
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\bin\Debug\zxing.presentation.xml
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.GenerateBarcode.resources
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.Properties.Resources.resources
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.ReadBarcode.resources
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.csproj.CopyComplete
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.exe
+C:\Users\user\Desktop\BarcodeSystem\BarcodeSystem\obj\Debug\BarcodeSystem.pdb
